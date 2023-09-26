@@ -1,0 +1,2 @@
+[14-Sep-2023 01:18:42 UTC] PHP Warning:  file_get_contents(/home/u6313921/public_html/inventory.endeecom.co.id/wp-content/.litespeed_conf.dat): failed to open stream: No such file or directory in /home/u6313921/public_html/inventory.endeecom.co.id/wp-content/plugins/litespeed-cache/lib/guest.cls.php on line 31
+[14-Sep-2023 01:18:42 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u6313921/public_html/inventory.endeecom.co.id/wp-content/plugins/litespeed-cache/lib/guest.cls.php on line 119

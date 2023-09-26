@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Cart Addon v2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-08-16 06:47:58+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-cart.php:0
+#@ bookingpress-cart
+msgid "BookingPress - Cart Addon"
+msgstr "BookingPress - Module complémentaire de panier"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-cart.php:0
+#@ bookingpress-cart
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-cart.php:0
+#@ bookingpress-cart
+msgid "Extension for BookingPress plugin to add cart feature for appointment booking"
+msgstr "Extension pour le plugin BookingPress pour ajouter une fonctionnalité de panier pour la prise de rendez-vous"
+
+#. translators: plugin header field 'Author'
+#: bookingpress-cart.php:0
+#@ bookingpress-cart
+msgid "Repute InfoSystems"
+msgstr "Systèmes d'information de réputation"
+
+#: core/classes/class.bookingpress-cart.php:550
+#: core/classes/class.bookingpress-cart.php:596
+#: core/classes/class.bookingpress-cart.php:642
+#: core/classes/class.bookingpress-cart.php:740
+#: core/classes/class.bookingpress-cart.php:800
+#: core/classes/class.bookingpress-cart.php:860
+#@ bookingpress-cart
+msgid "Sample Service 01"
+msgstr "Exemple de service 01"
+
+#: core/classes/class.bookingpress-cart.php:552
+#: core/classes/class.bookingpress-cart.php:598
+#: core/classes/class.bookingpress-cart.php:644
+#: core/classes/class.bookingpress-cart.php:742
+#: core/classes/class.bookingpress-cart.php:802
+#: core/classes/class.bookingpress-cart.php:862
+#@ bookingpress-cart
+msgid "45 Mins"
+msgstr "45 minutes"
+
+#: core/classes/class.bookingpress-cart.php:553
+#: core/classes/class.bookingpress-cart.php:599
+#: core/classes/class.bookingpress-cart.php:645
+#: core/classes/class.bookingpress-cart.php:743
+#: core/classes/class.bookingpress-cart.php:803
+#: core/classes/class.bookingpress-cart.php:863
+#@ bookingpress-cart
+msgid "Guests"
+msgstr "Invités"
+
+#: core/classes/class.bookingpress-cart.php:990
+#: core/classes/class.bookingpress-cart.php:3612
+#@ bookingpress-cart
+msgid "Cart Items"
+msgstr "Articles du panier"
+
+#: core/classes/class.bookingpress-cart.php:991
+#: core/classes/class.bookingpress-cart.php:3613
+#@ bookingpress-cart
+msgid "My Cart Items"
+msgstr "Articles de mon panier"
+
+#: core/classes/class.bookingpress-cart.php:992
+#: core/classes/class.bookingpress-cart.php:3614
+#@ bookingpress-cart
+msgid "Items"
+msgstr "Articles"
+
+#: core/classes/class.bookingpress-cart.php:993
+#: core/classes/class.bookingpress-cart.php:3615
+#@ bookingpress-cart
+msgid "Add Services"
+msgstr "Ajouter des services"
+
+#: core/classes/class.bookingpress-cart.php:903
+#: core/classes/class.bookingpress-cart.php:994
+#: core/classes/class.bookingpress-cart.php:3616
+#@ bookingpress-cart
+msgid "Cart Total"
+msgstr "Total du panier"
+
+#: core/classes/class.bookingpress-cart.php:273
+#: core/classes/class.bookingpress-cart.php:1040
+#@ bookingpress-cart
+msgid "Cart step labels"
+msgstr "Étiquettes d'étape de chariot"
+
+#: core/classes/class.bookingpress-cart.php:225
+#: core/classes/class.bookingpress-cart.php:248
+#: core/classes/class.bookingpress-cart.php:1042
+#@ bookingpress-cart
+msgid "Step Cart"
+msgstr "Chariot à marches"
+
+#: core/classes/class.bookingpress-cart.php:226
+#: core/classes/class.bookingpress-cart.php:249
+#: core/classes/class.bookingpress-cart.php:1046
+#@ bookingpress-cart
+msgid "Cart title"
+msgstr "Titre du panier"
+
+#: core/classes/class.bookingpress-cart.php:227
+#: core/classes/class.bookingpress-cart.php:250
+#: core/classes/class.bookingpress-cart.php:1050
+#@ bookingpress-cart
+msgid "Cart item title"
+msgstr "Titre de l'article du panier"
+
+#: core/classes/class.bookingpress-cart.php:228
+#: core/classes/class.bookingpress-cart.php:251
+#: core/classes/class.bookingpress-cart.php:1054
+#@ bookingpress-cart
+msgid "Add service button label"
+msgstr "Ajouter une étiquette de bouton de service"
+
+#: core/classes/class.bookingpress-cart.php:231
+#: core/classes/class.bookingpress-cart.php:254
+#: core/classes/class.bookingpress-cart.php:1066
+#@ bookingpress-cart
+msgid "Total title"
+msgstr "Titre total"
+
+#: core/classes/class.bookingpress-cart.php:1384
+#: core/classes/class.bookingpress-cart.php:3273
+#@ bookingpress-cart
+msgid "Success"
+msgstr "Succès"
+
+#: core/classes/class.bookingpress-cart.php:1389
+#: core/classes/class.bookingpress-cart.php:1394
+#: core/classes/class.bookingpress-cart.php:3267
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-cart
+msgid "Error"
+msgstr "Erreur"
+
+#: core/classes/class.bookingpress-cart.php:1835
+#@ bookingpress-cart
+msgid "BookingPress - Cart plugin requires BookingPress Premium Plugin installed and active."
+msgstr "BookingPress - Le plug-in Panier nécessite le plug-in BookingPress Premium installé et actif."
+
+#: core/classes/class.bookingpress-cart.php:3268
+#@ bookingpress-cart
+msgid "Sorry, Your request can not process due to security reason."
+msgstr "Désolé, votre demande ne peut pas être traitée pour des raisons de sécurité."
+
+#: core/classes/class.bookingpress-cart.php:3274
+#@ bookingpress-cart
+msgid "Data modified successfully"
+msgstr "Données modifiées avec succès"
+
+#: core/views/upgrade_latest_cart_data.php:10
+#@ bookingpress-cart
+msgid "extras"
+msgstr "Suppléments"
+
+#: core/classes/class.bookingpress-cart.php:997
+#: core/classes/class.bookingpress-cart.php:3619
+#: core/views/upgrade_latest_cart_data.php:11
+#@ bookingpress-cart
+msgid "Deposit"
+msgstr "Verser"
+
+#: core/classes/class.bookingpress-cart.php:233
+#: core/classes/class.bookingpress-cart.php:256
+#: core/classes/class.bookingpress-cart.php:1074
+#@ bookingpress-cart
+msgid "Cart service extra title"
+msgstr "Titre supplémentaire du service de chariot"
+
+#: core/classes/class.bookingpress-cart.php:235
+#: core/classes/class.bookingpress-cart.php:258
+#: core/classes/class.bookingpress-cart.php:1082
+#@ bookingpress-cart
+msgid "Cart deposit title"
+msgstr "Titre du dépôt du panier"
+
+#: core/classes/class.bookingpress-cart.php:998
+#: core/classes/class.bookingpress-cart.php:3620
+#: core/views/upgrade_latest_cart_data.php:27
+#@ bookingpress-cart
+msgid "No. Of Person"
+msgstr "Nombre de personne"
+
+#: core/classes/class.bookingpress-cart.php:232
+#: core/classes/class.bookingpress-cart.php:255
+#: core/classes/class.bookingpress-cart.php:1070
+#@ bookingpress-cart
+msgid "Cart No. of person title"
+msgstr "Panier N° de personne titre"
+
+#: core/classes/class.bookingpress-cart.php:1390
+#@ bookingpress-cart
+msgid "Coupon code not applied on this service"
+msgstr "Code promo non appliqué sur ce service"
+
+#: core/classes/class.bookingpress-cart.php:439
+#: core/classes/class.bookingpress-cart.php:452
+#: core/classes/class.bookingpress-cart.php:483
+#: core/classes/class.bookingpress-cart.php:494
+#: core/classes/class.bookingpress-cart.php:3594
+#@ bookingpress-cart
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Cart Add-on"
+msgstr "Veuillez activer la licence du plug-in premium BookingPress pour utiliser le module complémentaire BookingPress Cart"
+
+#: core/classes/class.bookingpress-cart.php:440
+#: core/classes/class.bookingpress-cart.php:453
+#: core/classes/class.bookingpress-cart.php:484
+#: core/classes/class.bookingpress-cart.php:495
+#: core/classes/class.bookingpress-cart.php:3595
+#, php-format
+#@ bookingpress-cart
+msgid "Please %s Click Here %s to Continue"
+msgstr "Veuillez %s cliquer ici %s pour continuer"
+
+#: core/classes/class.bookingpress-cart.php:3549
+#: core/classes/class.bookingpress-cart.php:3581
+#@ bookingpress-cart
+msgid "An error occurred, please try again."
+msgstr "Une erreur s'est produite, veuillez réessayer."
+
+#: core/classes/class.bookingpress-cart.php:3557
+#, php-format
+#@ bookingpress-cart
+msgid "Your license key expired on %s."
+msgstr "Votre clé de licence a expiré le %s."
+
+#: core/classes/class.bookingpress-cart.php:3562
+#@ bookingpress-cart
+msgid "Your license key has been disabled."
+msgstr "Votre clé de licence a été désactivée."
+
+#: core/classes/class.bookingpress-cart.php:3565
+#@ bookingpress-cart
+msgid "Invalid license."
+msgstr "Licence invalide."
+
+#: core/classes/class.bookingpress-cart.php:3569
+#@ bookingpress-cart
+msgid "Your license is not active for this URL."
+msgstr "Votre licence n'est pas active pour cette URL."
+
+#: core/classes/class.bookingpress-cart.php:3572
+#: core/classes/class.bookingpress-cart.php:3575
+#@ bookingpress-cart
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "Cela semble être une clé de licence non valide pour votre package sélectionné."
+
+#: core/classes/class.bookingpress-cart.php:3578
+#@ bookingpress-cart
+msgid "Your license key has reached its activation limit."
+msgstr "Votre clé de licence a atteint sa limite d'activation."
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+#@ bookingpress-cart
+msgid "There is a new version of %1$s available."
+msgstr "Une nouvelle version de %1$s est disponible."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+#@ bookingpress-cart
+msgid "Contact your network administrator to install the update."
+msgstr "Contactez votre administrateur réseau pour installer la mise à jour."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+#@ bookingpress-cart
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sAfficher les détails de la version %2$s%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+#@ bookingpress-cart
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sAfficher les détails de la version %2$s%3$s ou %4$mettre à jour maintenant%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+#@ bookingpress-cart
+msgid "Update now."
+msgstr "Mettez à jour maintenant."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-cart
+msgid "You do not have permission to install plugin updates"
+msgstr "Vous n'êtes pas autorisé à installer les mises à jour du plugin"
+
+#: core/classes/class.bookingpress-cart.php:904
+#@ bookingpress-cart
+msgid "$75.00"
+msgstr "75,00 $"
+
+#: core/classes/class.bookingpress-cart.php:995
+#: core/classes/class.bookingpress-cart.php:3617
+#@ bookingpress-cart
+msgid "Extras"
+msgstr "Suppléments"
+
+#: core/classes/class.bookingpress-cart.php:996
+#: core/classes/class.bookingpress-cart.php:3618
+#: core/views/upgrade_latest_cart_data.php:46
+#@ bookingpress-cart
+msgid "Qty"
+msgstr "Qté"
+
+#: core/classes/class.bookingpress-cart.php:999
+#: core/classes/class.bookingpress-cart.php:3621
+#: core/views/upgrade_latest_cart_data.php:42
+#@ bookingpress-cart
+msgid "Edit"
+msgstr "Modifier"
+
+#: core/classes/class.bookingpress-cart.php:1000
+#: core/classes/class.bookingpress-cart.php:3622
+#: core/views/upgrade_latest_cart_data.php:43
+#@ bookingpress-cart
+msgid "Remove"
+msgstr "Retirer"
+
+#: core/classes/class.bookingpress-cart.php:1001
+#: core/classes/class.bookingpress-cart.php:3623
+#: core/views/upgrade_latest_cart_data.php:44
+#@ bookingpress-cart
+msgid "Duration"
+msgstr "Durée"
+
+#: core/classes/class.bookingpress-cart.php:1002
+#: core/classes/class.bookingpress-cart.php:3624
+#: core/views/upgrade_latest_cart_data.php:45
+#@ bookingpress-cart
+msgid "Staff"
+msgstr "Personnel"
+
+#: core/classes/class.bookingpress-cart.php:229
+#: core/classes/class.bookingpress-cart.php:252
+#: core/classes/class.bookingpress-cart.php:1058
+#@ bookingpress-cart
+msgid "Cart Duration title"
+msgstr "Titre de la durée du panier"
+
+#: core/classes/class.bookingpress-cart.php:230
+#: core/classes/class.bookingpress-cart.php:253
+#: core/classes/class.bookingpress-cart.php:1062
+#@ bookingpress-cart
+msgid "Cart Staff title"
+msgstr "Titre du personnel du panier"
+
+#: core/classes/class.bookingpress-cart.php:234
+#: core/classes/class.bookingpress-cart.php:257
+#: core/classes/class.bookingpress-cart.php:1078
+#@ bookingpress-cart
+msgid "Cart service extra quantity title"
+msgstr "Titre de la quantité supplémentaire du service de panier"
+
+#: core/classes/class.bookingpress-cart.php:236
+#: core/classes/class.bookingpress-cart.php:259
+#: core/classes/class.bookingpress-cart.php:1086
+#@ bookingpress-cart
+msgid "Cart edit item title"
+msgstr "Panier modifier le titre de l'article"
+
+#: core/classes/class.bookingpress-cart.php:237
+#: core/classes/class.bookingpress-cart.php:260
+#: core/classes/class.bookingpress-cart.php:1090
+#@ bookingpress-cart
+msgid "Cart remove item title"
+msgstr "Panier supprimer le titre de l'article"
+
+#: core/classes/class.bookingpress-cart.php:265
+#@ bookingpress-cart
+msgid "Cart location title"
+msgstr "Titre de l'emplacement du panier"
+
+#: core/classes/class.bookingpress-cart.php:1847
+#@ bookingpress-cart
+msgid "It's Required to update the BookingPress Premium Plugin to version 2.6 or higher in order to use the BookingPress Cart plugin"
+msgstr "Il est nécessaire de mettre à jour le plugin BookingPress Premium vers la version 2.6 ou supérieure afin d'utiliser le plugin BookingPress Cart"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-cart.php:0
+#@ bookingpress-cart
+msgid "2.4"
+msgstr "2.4"
+
