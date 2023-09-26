@@ -1,2 +1,1 @@
-This application using Wordpress
-inventory.endeecom.co.id
+This application using Wordpress https://inventory.endeecom.co.id
